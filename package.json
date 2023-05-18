@@ -1,7 +1,5 @@
-{
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
+{ "scripts": {
+    "dev": "next",
     "build": "next build",
     "start": "next start"
   },
